@@ -19,7 +19,7 @@ U 1 1 5F31EC30
 P 3750 2300
 F 0 "J1" H 3782 2625 50  0000 C CNN
 F 1 "AudioJack2" H 3782 2534 50  0000 C CNN
-F 2 "Connector_Audio:Jack_3.5mm_PJ320D_Horizontal" H 3750 2300 50  0001 C CNN
+F 2 "Connector_Audio:Jack_3.5mm_PJ320E_Horizontal" H 3750 2300 50  0001 C CNN
 F 3 "~" H 3750 2300 50  0001 C CNN
 	1    3750 2300
 	-1   0    0    1   
@@ -287,7 +287,7 @@ U 1 1 5F362957
 P 4350 3350
 F 0 "D2" V 4297 3428 50  0000 L CNN
 F 1 "LED" V 4388 3428 50  0000 L CNN
-F 2 "Diode_THT:D_DO-15_P5.08mm_Vertical_KathodeUp" H 4350 3350 50  0001 C CNN
+F 2 "Diode_THT:D_A-405_P5.08mm_Vertical_KathodeUp" H 4350 3350 50  0001 C CNN
 F 3 "~" H 4350 3350 50  0001 C CNN
 	1    4350 3350
 	0    -1   -1   0   
