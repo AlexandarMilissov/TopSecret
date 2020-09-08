@@ -19,7 +19,7 @@ U 1 1 5F579700
 P 2750 2100
 F 0 "J1" H 2750 3581 50  0000 C CNN
 F 1 "Raspberry_Pi_2_3" H 2750 3490 50  0000 C CNN
-F 2 "" H 2750 2100 50  0001 C CNN
+F 2 "pcb1:MODULE_RASPBERRY_PI_3_MODEL_B+" H 2750 2100 50  0001 C CNN
 F 3 "https://www.raspberrypi.org/documentation/hardware/raspberrypi/schematics/rpi_SCH_3bplus_1p0_reduced.pdf" H 2750 2100 50  0001 C CNN
 	1    2750 2100
 	1    0    0    -1  
@@ -816,7 +816,7 @@ U 1 1 5F94042B
 P 1600 4700
 F 0 "SW1" H 1600 4985 50  0000 C CNN
 F 1 "SW_Push" H 1600 4894 50  0000 C CNN
-F 2 "Connector_PinSocket_2.54mm:PinSocket_2x01_P2.54mm_Horizontal" H 1600 4900 50  0001 C CNN
+F 2 "Connector_PinSocket_2.54mm:PinSocket_2x01_P2.54mm_Vertical" H 1600 4900 50  0001 C CNN
 F 3 "~" H 1600 4900 50  0001 C CNN
 	1    1600 4700
 	1    0    0    -1  
@@ -840,7 +840,7 @@ U 1 1 5F9E0187
 P 2600 4700
 F 0 "SW5" H 2600 4985 50  0000 C CNN
 F 1 "SW_Push" H 2600 4894 50  0000 C CNN
-F 2 "Connector_PinSocket_2.54mm:PinSocket_2x01_P2.54mm_Horizontal" H 2600 4900 50  0001 C CNN
+F 2 "Connector_PinSocket_2.54mm:PinSocket_2x01_P2.54mm_Vertical" H 2600 4900 50  0001 C CNN
 F 3 "~" H 2600 4900 50  0001 C CNN
 	1    2600 4700
 	1    0    0    -1  
@@ -851,7 +851,7 @@ U 1 1 5F9E7946
 P 3550 4700
 F 0 "SW9" H 3550 4985 50  0000 C CNN
 F 1 "SW_Push" H 3550 4894 50  0000 C CNN
-F 2 "Connector_PinSocket_2.54mm:PinSocket_2x01_P2.54mm_Horizontal" H 3550 4900 50  0001 C CNN
+F 2 "Connector_PinSocket_2.54mm:PinSocket_2x01_P2.54mm_Vertical" H 3550 4900 50  0001 C CNN
 F 3 "~" H 3550 4900 50  0001 C CNN
 	1    3550 4700
 	1    0    0    -1  
@@ -862,7 +862,7 @@ U 1 1 5F9EEE5B
 P 4550 4700
 F 0 "SW13" H 4550 4985 50  0000 C CNN
 F 1 "SW_Push" H 4550 4894 50  0000 C CNN
-F 2 "Connector_PinSocket_2.54mm:PinSocket_2x01_P2.54mm_Horizontal" H 4550 4900 50  0001 C CNN
+F 2 "Connector_PinSocket_2.54mm:PinSocket_2x01_P2.54mm_Vertical" H 4550 4900 50  0001 C CNN
 F 3 "~" H 4550 4900 50  0001 C CNN
 	1    4550 4700
 	1    0    0    -1  
@@ -873,7 +873,7 @@ U 1 1 5F9F63BC
 P 5550 4700
 F 0 "SW17" H 5550 4985 50  0000 C CNN
 F 1 "SW_Push" H 5550 4894 50  0000 C CNN
-F 2 "Connector_PinSocket_2.54mm:PinSocket_2x01_P2.54mm_Horizontal" H 5550 4900 50  0001 C CNN
+F 2 "Connector_PinSocket_2.54mm:PinSocket_2x01_P2.54mm_Vertical" H 5550 4900 50  0001 C CNN
 F 3 "~" H 5550 4900 50  0001 C CNN
 	1    5550 4700
 	1    0    0    -1  
@@ -884,7 +884,7 @@ U 1 1 5F9FD7F7
 P 5550 5250
 F 0 "SW18" H 5550 5535 50  0000 C CNN
 F 1 "SW_Push" H 5550 5444 50  0000 C CNN
-F 2 "Connector_PinSocket_2.54mm:PinSocket_2x01_P2.54mm_Horizontal" H 5550 5450 50  0001 C CNN
+F 2 "Connector_PinSocket_2.54mm:PinSocket_2x01_P2.54mm_Vertical" H 5550 5450 50  0001 C CNN
 F 3 "~" H 5550 5450 50  0001 C CNN
 	1    5550 5250
 	1    0    0    -1  
@@ -895,7 +895,7 @@ U 1 1 5FA04CAC
 P 4550 5250
 F 0 "SW14" H 4550 5535 50  0000 C CNN
 F 1 "SW_Push" H 4550 5444 50  0000 C CNN
-F 2 "Connector_PinSocket_2.54mm:PinSocket_2x01_P2.54mm_Horizontal" H 4550 5450 50  0001 C CNN
+F 2 "Connector_PinSocket_2.54mm:PinSocket_2x01_P2.54mm_Vertical" H 4550 5450 50  0001 C CNN
 F 3 "~" H 4550 5450 50  0001 C CNN
 	1    4550 5250
 	1    0    0    -1  
@@ -906,7 +906,7 @@ U 1 1 5FA0C143
 P 3550 5250
 F 0 "SW10" H 3550 5535 50  0000 C CNN
 F 1 "SW_Push" H 3550 5444 50  0000 C CNN
-F 2 "Connector_PinSocket_2.54mm:PinSocket_2x01_P2.54mm_Horizontal" H 3550 5450 50  0001 C CNN
+F 2 "Connector_PinSocket_2.54mm:PinSocket_2x01_P2.54mm_Vertical" H 3550 5450 50  0001 C CNN
 F 3 "~" H 3550 5450 50  0001 C CNN
 	1    3550 5250
 	1    0    0    -1  
@@ -917,7 +917,7 @@ U 1 1 5FA13556
 P 2600 5250
 F 0 "SW6" H 2600 5535 50  0000 C CNN
 F 1 "SW_Push" H 2600 5444 50  0000 C CNN
-F 2 "Connector_PinSocket_2.54mm:PinSocket_2x01_P2.54mm_Horizontal" H 2600 5450 50  0001 C CNN
+F 2 "Connector_PinSocket_2.54mm:PinSocket_2x01_P2.54mm_Vertical" H 2600 5450 50  0001 C CNN
 F 3 "~" H 2600 5450 50  0001 C CNN
 	1    2600 5250
 	1    0    0    -1  
@@ -928,7 +928,7 @@ U 1 1 5FA1AAF3
 P 1600 5250
 F 0 "SW2" H 1600 5535 50  0000 C CNN
 F 1 "SW_Push" H 1600 5444 50  0000 C CNN
-F 2 "Connector_PinSocket_2.54mm:PinSocket_2x01_P2.54mm_Horizontal" H 1600 5450 50  0001 C CNN
+F 2 "Connector_PinSocket_2.54mm:PinSocket_2x01_P2.54mm_Vertical" H 1600 5450 50  0001 C CNN
 F 3 "~" H 1600 5450 50  0001 C CNN
 	1    1600 5250
 	1    0    0    -1  
@@ -939,7 +939,7 @@ U 1 1 5FA21EF7
 P 1600 5750
 F 0 "SW3" H 1600 6035 50  0000 C CNN
 F 1 "SW_Push" H 1600 5944 50  0000 C CNN
-F 2 "Connector_PinSocket_2.54mm:PinSocket_2x01_P2.54mm_Horizontal" H 1600 5950 50  0001 C CNN
+F 2 "Connector_PinSocket_2.54mm:PinSocket_2x01_P2.54mm_Vertical" H 1600 5950 50  0001 C CNN
 F 3 "~" H 1600 5950 50  0001 C CNN
 	1    1600 5750
 	1    0    0    -1  
@@ -950,7 +950,7 @@ U 1 1 5FA2949B
 P 2600 5750
 F 0 "SW7" H 2600 6035 50  0000 C CNN
 F 1 "SW_Push" H 2600 5944 50  0000 C CNN
-F 2 "Connector_PinSocket_2.54mm:PinSocket_2x01_P2.54mm_Horizontal" H 2600 5950 50  0001 C CNN
+F 2 "Connector_PinSocket_2.54mm:PinSocket_2x01_P2.54mm_Vertical" H 2600 5950 50  0001 C CNN
 F 3 "~" H 2600 5950 50  0001 C CNN
 	1    2600 5750
 	1    0    0    -1  
@@ -964,7 +964,7 @@ U 1 1 5FA37FD7
 P 3550 5750
 F 0 "SW11" H 3550 6035 50  0000 C CNN
 F 1 "SW_Push" H 3550 5944 50  0000 C CNN
-F 2 "Connector_PinSocket_2.54mm:PinSocket_2x01_P2.54mm_Horizontal" H 3550 5950 50  0001 C CNN
+F 2 "Connector_PinSocket_2.54mm:PinSocket_2x01_P2.54mm_Vertical" H 3550 5950 50  0001 C CNN
 F 3 "~" H 3550 5950 50  0001 C CNN
 	1    3550 5750
 	1    0    0    -1  
@@ -975,7 +975,7 @@ U 1 1 5FA3F5E3
 P 4550 5750
 F 0 "SW15" H 4550 6035 50  0000 C CNN
 F 1 "SW_Push" H 4550 5944 50  0000 C CNN
-F 2 "Connector_PinSocket_2.54mm:PinSocket_2x01_P2.54mm_Horizontal" H 4550 5950 50  0001 C CNN
+F 2 "Connector_PinSocket_2.54mm:PinSocket_2x01_P2.54mm_Vertical" H 4550 5950 50  0001 C CNN
 F 3 "~" H 4550 5950 50  0001 C CNN
 	1    4550 5750
 	1    0    0    -1  
@@ -986,7 +986,7 @@ U 1 1 5FA46DEC
 P 5550 5750
 F 0 "SW19" H 5550 6035 50  0000 C CNN
 F 1 "SW_Push" H 5550 5944 50  0000 C CNN
-F 2 "Connector_PinSocket_2.54mm:PinSocket_2x01_P2.54mm_Horizontal" H 5550 5950 50  0001 C CNN
+F 2 "Connector_PinSocket_2.54mm:PinSocket_2x01_P2.54mm_Vertical" H 5550 5950 50  0001 C CNN
 F 3 "~" H 5550 5950 50  0001 C CNN
 	1    5550 5750
 	1    0    0    -1  
@@ -997,7 +997,7 @@ U 1 1 5FA4E46F
 P 1600 6250
 F 0 "SW4" H 1600 6535 50  0000 C CNN
 F 1 "SW_Push" H 1600 6444 50  0000 C CNN
-F 2 "Connector_PinSocket_2.54mm:PinSocket_2x01_P2.54mm_Horizontal" H 1600 6450 50  0001 C CNN
+F 2 "Connector_PinSocket_2.54mm:PinSocket_2x01_P2.54mm_Vertical" H 1600 6450 50  0001 C CNN
 F 3 "~" H 1600 6450 50  0001 C CNN
 	1    1600 6250
 	1    0    0    -1  
@@ -1008,7 +1008,7 @@ U 1 1 5FA55C91
 P 2600 6250
 F 0 "SW8" H 2600 6535 50  0000 C CNN
 F 1 "SW_Push" H 2600 6444 50  0000 C CNN
-F 2 "Connector_PinSocket_2.54mm:PinSocket_2x01_P2.54mm_Horizontal" H 2600 6450 50  0001 C CNN
+F 2 "Connector_PinSocket_2.54mm:PinSocket_2x01_P2.54mm_Vertical" H 2600 6450 50  0001 C CNN
 F 3 "~" H 2600 6450 50  0001 C CNN
 	1    2600 6250
 	1    0    0    -1  
@@ -1019,7 +1019,7 @@ U 1 1 5FA5D1CA
 P 3550 6250
 F 0 "SW12" H 3550 6535 50  0000 C CNN
 F 1 "SW_Push" H 3550 6444 50  0000 C CNN
-F 2 "Connector_PinSocket_2.54mm:PinSocket_2x01_P2.54mm_Horizontal" H 3550 6450 50  0001 C CNN
+F 2 "Connector_PinSocket_2.54mm:PinSocket_2x01_P2.54mm_Vertical" H 3550 6450 50  0001 C CNN
 F 3 "~" H 3550 6450 50  0001 C CNN
 	1    3550 6250
 	1    0    0    -1  
@@ -1030,7 +1030,7 @@ U 1 1 5FA649BF
 P 4550 6250
 F 0 "SW16" H 4550 6535 50  0000 C CNN
 F 1 "SW_Push" H 4550 6444 50  0000 C CNN
-F 2 "Connector_PinSocket_2.54mm:PinSocket_2x01_P2.54mm_Horizontal" H 4550 6450 50  0001 C CNN
+F 2 "Connector_PinSocket_2.54mm:PinSocket_2x01_P2.54mm_Vertical" H 4550 6450 50  0001 C CNN
 F 3 "~" H 4550 6450 50  0001 C CNN
 	1    4550 6250
 	1    0    0    -1  
@@ -1041,7 +1041,7 @@ U 1 1 5FA6BFF6
 P 5550 6250
 F 0 "SW20" H 5550 6535 50  0000 C CNN
 F 1 "SW_Push" H 5550 6444 50  0000 C CNN
-F 2 "Connector_PinSocket_2.54mm:PinSocket_2x01_P2.54mm_Horizontal" H 5550 6450 50  0001 C CNN
+F 2 "Connector_PinSocket_2.54mm:PinSocket_2x01_P2.54mm_Vertical" H 5550 6450 50  0001 C CNN
 F 3 "~" H 5550 6450 50  0001 C CNN
 	1    5550 6250
 	1    0    0    -1  
