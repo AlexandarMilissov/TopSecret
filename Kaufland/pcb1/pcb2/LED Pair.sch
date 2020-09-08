@@ -3,7 +3,7 @@ EELAYER 30 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
-Sheet 21 21
+Sheet 2 21
 Title ""
 Date ""
 Rev ""
@@ -58,9 +58,9 @@ AR Path="/5F5C83FB/5F5803A7" Ref="D33"  Part="1"
 AR Path="/5F5C83FF/5F5803A7" Ref="D35"  Part="1" 
 AR Path="/5F5C8403/5F5803A7" Ref="D37"  Part="1" 
 AR Path="/5F5C8407/5F5803A7" Ref="D39"  Part="1" 
-F 0 "D39" V 4689 2983 50  0000 R CNN
+F 0 "D1" V 4689 2983 50  0000 R CNN
 F 1 "LED" V 4598 2983 50  0000 R CNN
-F 2 "Connector_PinSocket_2.54mm:PinSocket_2x01_P2.54mm_Horizontal" H 4650 3100 50  0001 C CNN
+F 2 "Connector_PinSocket_2.54mm:PinSocket_2x01_P2.54mm_Vertical" H 4650 3100 50  0001 C CNN
 F 3 "~" H 4650 3100 50  0001 C CNN
 	1    4650 3100
 	0    -1   -1   0   
@@ -110,9 +110,9 @@ AR Path="/5F5C83FB/5F58104F" Ref="D34"  Part="1"
 AR Path="/5F5C83FF/5F58104F" Ref="D36"  Part="1" 
 AR Path="/5F5C8403/5F58104F" Ref="D38"  Part="1" 
 AR Path="/5F5C8407/5F58104F" Ref="D40"  Part="1" 
-F 0 "D40" V 5189 2983 50  0000 R CNN
+F 0 "D2" V 5189 2983 50  0000 R CNN
 F 1 "LED" V 5098 2983 50  0000 R CNN
-F 2 "Connector_PinSocket_2.54mm:PinSocket_2x01_P2.54mm_Horizontal" H 5150 3100 50  0001 C CNN
+F 2 "Connector_PinSocket_2.54mm:PinSocket_2x01_P2.54mm_Vertical" H 5150 3100 50  0001 C CNN
 F 3 "~" H 5150 3100 50  0001 C CNN
 	1    5150 3100
 	0    1    1    0   
