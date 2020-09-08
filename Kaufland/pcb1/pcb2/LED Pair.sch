@@ -1,0 +1,146 @@
+EESchema Schematic File Version 4
+EELAYER 30 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 21 21
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L Device:LED D?
+U 1 1 5F5803A7
+P 4650 3100
+AR Path="/5F57F9FF/5F580197/5F5803A7" Ref="D?"  Part="1" 
+AR Path="/5F57F9FF/5F581FBD/5F5803A7" Ref="D?"  Part="1" 
+AR Path="/5F57F9FF/5F582123/5F5803A7" Ref="D?"  Part="1" 
+AR Path="/5F57F9FF/5F582197/5F5803A7" Ref="D?"  Part="1" 
+AR Path="/5F57F9FF/5F582361/5F5803A7" Ref="D?"  Part="1" 
+AR Path="/5F57F9FF/5F582408/5F5803A7" Ref="D?"  Part="1" 
+AR Path="/5F57F9FF/5F58326C/5F5803A7" Ref="D?"  Part="1" 
+AR Path="/5F57F9FF/5F583270/5F5803A7" Ref="D?"  Part="1" 
+AR Path="/5F57F9FF/5F583274/5F5803A7" Ref="D?"  Part="1" 
+AR Path="/5F57F9FF/5F583278/5F5803A7" Ref="D?"  Part="1" 
+AR Path="/5F57F9FF/5F58327C/5F5803A7" Ref="D?"  Part="1" 
+AR Path="/5F57F9FF/5F58432E/5F5803A7" Ref="D?"  Part="1" 
+AR Path="/5F57F9FF/5F584332/5F5803A7" Ref="D?"  Part="1" 
+AR Path="/5F57F9FF/5F584336/5F5803A7" Ref="D?"  Part="1" 
+AR Path="/5F57F9FF/5F58433A/5F5803A7" Ref="D?"  Part="1" 
+AR Path="/5F57F9FF/5F58433E/5F5803A7" Ref="D?"  Part="1" 
+AR Path="/5F57F9FF/5F584342/5F5803A7" Ref="D?"  Part="1" 
+AR Path="/5F57F9FF/5F584346/5F5803A7" Ref="D?"  Part="1" 
+AR Path="/5F57F9FF/5F58434A/5F5803A7" Ref="D?"  Part="1" 
+AR Path="/5F57F9FF/5F58434E/5F5803A7" Ref="D?"  Part="1" 
+AR Path="/5F57F9FF/5F584352/5F5803A7" Ref="D?"  Part="1" 
+AR Path="/5F5C83BB/5F5803A7" Ref="D1"  Part="1" 
+AR Path="/5F5C83BF/5F5803A7" Ref="D3"  Part="1" 
+AR Path="/5F5C83C3/5F5803A7" Ref="D5"  Part="1" 
+AR Path="/5F5C83C7/5F5803A7" Ref="D7"  Part="1" 
+AR Path="/5F5C83CB/5F5803A7" Ref="D9"  Part="1" 
+AR Path="/5F5C83CF/5F5803A7" Ref="D11"  Part="1" 
+AR Path="/5F5C83D3/5F5803A7" Ref="D13"  Part="1" 
+AR Path="/5F5C83D7/5F5803A7" Ref="D15"  Part="1" 
+AR Path="/5F5C83DB/5F5803A7" Ref="D17"  Part="1" 
+AR Path="/5F5C83DF/5F5803A7" Ref="D19"  Part="1" 
+AR Path="/5F5C83E3/5F5803A7" Ref="D21"  Part="1" 
+AR Path="/5F5C83E7/5F5803A7" Ref="D23"  Part="1" 
+AR Path="/5F5C83EB/5F5803A7" Ref="D25"  Part="1" 
+AR Path="/5F5C83EF/5F5803A7" Ref="D27"  Part="1" 
+AR Path="/5F5C83F3/5F5803A7" Ref="D29"  Part="1" 
+AR Path="/5F5C83F7/5F5803A7" Ref="D31"  Part="1" 
+AR Path="/5F5C83FB/5F5803A7" Ref="D33"  Part="1" 
+AR Path="/5F5C83FF/5F5803A7" Ref="D35"  Part="1" 
+AR Path="/5F5C8403/5F5803A7" Ref="D37"  Part="1" 
+AR Path="/5F5C8407/5F5803A7" Ref="D39"  Part="1" 
+F 0 "D39" V 4689 2983 50  0000 R CNN
+F 1 "LED" V 4598 2983 50  0000 R CNN
+F 2 "Connector_PinSocket_2.54mm:PinSocket_2x01_P2.54mm_Horizontal" H 4650 3100 50  0001 C CNN
+F 3 "~" H 4650 3100 50  0001 C CNN
+	1    4650 3100
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:LED D?
+U 1 1 5F58104F
+P 5150 3100
+AR Path="/5F57F9FF/5F580197/5F58104F" Ref="D?"  Part="1" 
+AR Path="/5F57F9FF/5F581FBD/5F58104F" Ref="D?"  Part="1" 
+AR Path="/5F57F9FF/5F582123/5F58104F" Ref="D?"  Part="1" 
+AR Path="/5F57F9FF/5F582197/5F58104F" Ref="D?"  Part="1" 
+AR Path="/5F57F9FF/5F582361/5F58104F" Ref="D?"  Part="1" 
+AR Path="/5F57F9FF/5F582408/5F58104F" Ref="D?"  Part="1" 
+AR Path="/5F57F9FF/5F58326C/5F58104F" Ref="D?"  Part="1" 
+AR Path="/5F57F9FF/5F583270/5F58104F" Ref="D?"  Part="1" 
+AR Path="/5F57F9FF/5F583274/5F58104F" Ref="D?"  Part="1" 
+AR Path="/5F57F9FF/5F583278/5F58104F" Ref="D?"  Part="1" 
+AR Path="/5F57F9FF/5F58327C/5F58104F" Ref="D?"  Part="1" 
+AR Path="/5F57F9FF/5F58432E/5F58104F" Ref="D?"  Part="1" 
+AR Path="/5F57F9FF/5F584332/5F58104F" Ref="D?"  Part="1" 
+AR Path="/5F57F9FF/5F584336/5F58104F" Ref="D?"  Part="1" 
+AR Path="/5F57F9FF/5F58433A/5F58104F" Ref="D?"  Part="1" 
+AR Path="/5F57F9FF/5F58433E/5F58104F" Ref="D?"  Part="1" 
+AR Path="/5F57F9FF/5F584342/5F58104F" Ref="D?"  Part="1" 
+AR Path="/5F57F9FF/5F584346/5F58104F" Ref="D?"  Part="1" 
+AR Path="/5F57F9FF/5F58434A/5F58104F" Ref="D?"  Part="1" 
+AR Path="/5F57F9FF/5F58434E/5F58104F" Ref="D?"  Part="1" 
+AR Path="/5F57F9FF/5F584352/5F58104F" Ref="D?"  Part="1" 
+AR Path="/5F5C83BB/5F58104F" Ref="D2"  Part="1" 
+AR Path="/5F5C83BF/5F58104F" Ref="D4"  Part="1" 
+AR Path="/5F5C83C3/5F58104F" Ref="D6"  Part="1" 
+AR Path="/5F5C83C7/5F58104F" Ref="D8"  Part="1" 
+AR Path="/5F5C83CB/5F58104F" Ref="D10"  Part="1" 
+AR Path="/5F5C83CF/5F58104F" Ref="D12"  Part="1" 
+AR Path="/5F5C83D3/5F58104F" Ref="D14"  Part="1" 
+AR Path="/5F5C83D7/5F58104F" Ref="D16"  Part="1" 
+AR Path="/5F5C83DB/5F58104F" Ref="D18"  Part="1" 
+AR Path="/5F5C83DF/5F58104F" Ref="D20"  Part="1" 
+AR Path="/5F5C83E3/5F58104F" Ref="D22"  Part="1" 
+AR Path="/5F5C83E7/5F58104F" Ref="D24"  Part="1" 
+AR Path="/5F5C83EB/5F58104F" Ref="D26"  Part="1" 
+AR Path="/5F5C83EF/5F58104F" Ref="D28"  Part="1" 
+AR Path="/5F5C83F3/5F58104F" Ref="D30"  Part="1" 
+AR Path="/5F5C83F7/5F58104F" Ref="D32"  Part="1" 
+AR Path="/5F5C83FB/5F58104F" Ref="D34"  Part="1" 
+AR Path="/5F5C83FF/5F58104F" Ref="D36"  Part="1" 
+AR Path="/5F5C8403/5F58104F" Ref="D38"  Part="1" 
+AR Path="/5F5C8407/5F58104F" Ref="D40"  Part="1" 
+F 0 "D40" V 5189 2983 50  0000 R CNN
+F 1 "LED" V 5098 2983 50  0000 R CNN
+F 2 "Connector_PinSocket_2.54mm:PinSocket_2x01_P2.54mm_Horizontal" H 5150 3100 50  0001 C CNN
+F 3 "~" H 5150 3100 50  0001 C CNN
+	1    5150 3100
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	4650 2950 4650 2800
+Wire Wire Line
+	4650 2800 4900 2800
+Wire Wire Line
+	5150 2800 5150 2950
+Wire Wire Line
+	4650 3250 4650 3400
+Wire Wire Line
+	4650 3400 4900 3400
+Wire Wire Line
+	5150 3400 5150 3250
+Wire Wire Line
+	4900 3400 4900 3550
+Connection ~ 4900 3400
+Wire Wire Line
+	4900 3400 5150 3400
+Wire Wire Line
+	4900 2800 4900 2650
+Connection ~ 4900 2800
+Wire Wire Line
+	4900 2800 5150 2800
+Text HLabel 4900 2650 1    50   Input ~ 0
+IN1
+Text HLabel 4900 3550 3    50   Input ~ 0
+IN2
+$EndSCHEMATC
